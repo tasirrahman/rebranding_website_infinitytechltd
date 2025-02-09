@@ -1,0 +1,14 @@
+Front-End
+---------------------
+React JS
+Tailwind CSS
+Framer motion
+
+Language
+----------------------
+JS
+
+Backend
+---------------------
+N/A
+
