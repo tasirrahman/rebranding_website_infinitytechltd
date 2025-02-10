@@ -13,3 +13,5 @@ This website was developed solely for practice purposes with permission from a m
 - **React.js**
 - **Tailwind CSS**
 - **Framer Motion**
+
+![Project Screenshot](/UI/01.png)
